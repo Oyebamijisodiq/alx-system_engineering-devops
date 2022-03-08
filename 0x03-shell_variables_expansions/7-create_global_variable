@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST=School[D[D[D[D[D[D[D[D[D[D[Dexport BEST=School
+export BEST="School"
